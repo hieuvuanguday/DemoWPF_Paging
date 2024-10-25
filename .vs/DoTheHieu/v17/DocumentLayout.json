@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|d:\\12-cn7\\prn221-fall24\\demowpf\\dothehieu\\demowindowpage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|d:\\12-cn7\\prn221-fall24\\demowpf\\dothehieu\\demowindowpage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|d:\\12-cn7\\prn221-fall24\\demowpf\\dothehieu\\demowindowpage\\page01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\page01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|d:\\12-cn7\\prn221-fall24\\demowpf\\dothehieu\\demowindowpage\\page02.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\page02.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|d:\\12-cn7\\prn221-fall24\\demowpf\\dothehieu\\demowindowpage\\page01.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\page01.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|d:\\12-cn7\\prn221-fall24\\demowpf\\dothehieu\\demowindowpage\\page02.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248341D8-5A81-41B6-8765-70721BF5ABBC}|DemoWindowPage\\DemoWindowPage.csproj|solutionrelative:demowindowpage\\page02.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page02.xaml",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\Page02.xaml",
+              "RelativeDocumentMoniker": "DemoWindowPage\\Page02.xaml",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\Page02.xaml",
+              "RelativeToolTip": "DemoWindowPage\\Page02.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T09:24:44.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page01.xaml",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\Page01.xaml",
+              "RelativeDocumentMoniker": "DemoWindowPage\\Page01.xaml",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\Page01.xaml",
+              "RelativeToolTip": "DemoWindowPage\\Page01.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T09:17:39.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoWindowPage\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoWindowPage\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:16:23.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoWindowPage\\MainWindow.xaml",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\MainWindow.xaml",
+              "RelativeToolTip": "DemoWindowPage\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T09:16:24.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page01.xaml.cs",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\Page01.xaml.cs",
+              "RelativeDocumentMoniker": "DemoWindowPage\\Page01.xaml.cs",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\Page01.xaml.cs",
+              "RelativeToolTip": "DemoWindowPage\\Page01.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:33:54.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page02.xaml.cs",
+              "DocumentMoniker": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\Page02.xaml.cs",
+              "RelativeDocumentMoniker": "DemoWindowPage\\Page02.xaml.cs",
+              "ToolTip": "D:\\12-CN7\\PRN221-FALL24\\DemoWPF\\DoTheHieu\\DemoWindowPage\\Page02.xaml.cs",
+              "RelativeToolTip": "DemoWindowPage\\Page02.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:34:03.774Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
